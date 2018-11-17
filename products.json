@@ -47,12 +47,19 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
-    }
-	    {
+    },
+    {
         "id": "8",
         "title": "Chevrolet Corvette",
         "image": "chevrolet-corvette.jpg",
         "description": "Good supercar",
         "price": 8888.99
+    },
+    {
+        "id": "9",
+        "title": "ZAZ Sens",
+        "image": "chevrolet-corvette.jpg",
+        "description": "Best of the best",
+        "price": 7777.99
     }
 ]
