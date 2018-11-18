@@ -61,6 +61,13 @@
         "image": "chevrolet-corvette.jpg",
         "description": "Best of the best",
         "price": 7777.99
+    },
+    {
+        "id": "10",
+        "title": "Toyota-Corolla",
+        "image": "toyota-corolla.jpg",
+        "description": "Best of the best",
+        "price": 50000.99
     }
 	    {
         "id": "8",
