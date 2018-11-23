@@ -70,4 +70,12 @@
         "price": 50000.99
     }
 	
+	 {
+        "id": "11",
+        "title": "Bugatti Veyron",
+        "image": "bugatti-veyron.jpg",
+        "description": "Good supercar",
+        "price": 20000000.99
+    }
+	
 ]
