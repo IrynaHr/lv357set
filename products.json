@@ -58,7 +58,7 @@
     {
         "id": "9",
         "title": "ZAZ Sens",
-        "image": "chevrolet-corvette.jpg",
+        "image": "sens.jpg",
         "description": "Best of the best",
         "price": 7777.99
     },
@@ -68,8 +68,7 @@
         "image": "toyota-corolla.jpg",
         "description": "Best of the best",
         "price": 50000.99
-    }
-	
+    },
 	 {
         "id": "11",
         "title": "Bugatti Veyron",
@@ -77,13 +76,22 @@
         "description": "Good supercar",
         "price": 20000000.99
     },
-{
+
+    {
         "id": "13",
+        "title": "De Dion La Marquise",
+        "image": "De Dion La Marquise.jpg",
+        "description": "First of all!!!",
+        "price": 12000000.99
+    },
+  ``{
+        "id": "14",
         "title": "Subaru Legacy",
         "image": "subaru.jpg",
         "description": "Good supercar",
         "price": 10000000.99
-    }
+
+    `}
 
 	
 ]
