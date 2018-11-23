@@ -76,12 +76,22 @@
         "description": "Good supercar",
         "price": 20000000.99
     },
+
     {
         "id": "13",
         "title": "De Dion La Marquise",
         "image": "De Dion La Marquise.jpg",
         "description": "First of all!!!",
         "price": 12000000.99
-    }
+    },
+  ``{
+        "id": "14",
+        "title": "Subaru Legacy",
+        "image": "subaru.jpg",
+        "description": "Good supercar",
+        "price": 10000000.99
+
+    `}
+
 	
 ]
