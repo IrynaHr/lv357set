@@ -76,6 +76,14 @@
         "image": "bugatti-veyron.jpg",
         "description": "Good supercar",
         "price": 20000000.99
+    },
+{
+        "id": "13",
+        "title": "Subaru Legacy",
+        "image": "subaru.jpg",
+        "description": "Good supercar",
+        "price": 10000000.99
     }
+
 	
 ]
